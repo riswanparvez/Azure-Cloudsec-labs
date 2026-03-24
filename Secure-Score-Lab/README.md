@@ -67,3 +67,20 @@ Reduce attack surface and improve visibility
 - Secure Score optimization  
 - Risk mitigation  
 - Cloud hardening  
+## 📸 Screenshots
+
+### 🔴 Secure Score Before Remediation
+This shows the initial insecure state of the environment before applying any security controls.
+![Secure Score Before](images/secure-score-before.png)
+
+### 🛠️ Security Hardening – Just-In-Time (JIT) VM Access
+Restricted RDP (port 3389) access using JIT to minimize exposure to the internet.
+![JIT Access](images/jit-access.png)
+
+### 🔐 Network Security Group (NSG) Configuration
+Configured inbound rules to control traffic and reduce attack surface.
+![NSG Rules](images/nsg-rules.png)
+
+### 🟢 Secure Score After Remediation
+Security posture improved after applying recommendations and hardening configurations.
+![Secure Score After](images/secure-score-after.png)
