@@ -177,9 +177,3 @@ KQL Query Writing
 Threat Detection Engineering
 SOC Incident Detection
 
-📸 Screenshots
-
-Log ingestion from Windows VM
-KQL query results detecting failed logins
-Sentinel analytics rule configuration
-Generated brute force incident in Microsoft Sentinel
